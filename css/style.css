@@ -1,0 +1,21 @@
+
+body{
+ margin:0;
+ font-family:Arial;
+ color:#fff;
+}
+.topo{
+ padding:60px;
+ text-align:center;
+}
+.topo button{
+ padding:15px 40px;
+ border:none;
+ font-size:18px;
+ border-radius:30px;
+ cursor:pointer;
+}
+.banner img{
+ width:100%;
+ display:block;
+}
